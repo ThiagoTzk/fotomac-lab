@@ -1,0 +1,42 @@
+# ---------------------------------------------------------------
+# Dado pessoal — NUNCA vai para repositório.
+# LGPD art. 5º, II: dado biométrico é dado pessoal SENSÍVEL.
+# Não basta esvaziar fotos/ — as cópias derivadas abaixo
+# identificam as mesmas pessoas tão bem quanto o original.
+# ---------------------------------------------------------------
+
+# acervo das colações de grau
+fotos/
+
+# autorretratos enviados e capturados pela webcam
+consultas/
+
+# imagens com o rosto marcado pelo detector
+diagnostico/
+
+# 388 miniaturas + 18.762 vetores de rosto (.pkl)
+cache/
+
+# cópias do gabarito
+backups/
+
+# ---------------------------------------------------------------
+# Peso morto — regenera sozinho, não faz sentido versionar.
+# ---------------------------------------------------------------
+
+# 1,8 GB e 33.642 arquivos; o README ensina a recriar
+.venv/
+
+# 37 MB baixados do opencv_zoo (links no README)
+models/*.onnx
+
+__pycache__/
+*.pyc
+.DS_Store
+
+# ---------------------------------------------------------------
+# O que DEVE subir: os .py, docs/, entregaveis/, resultados/,
+# gabarito.json e modelos_testados.json. É a medição do TCC, e
+# não traz imagem nem nome real — as pessoas no gabarito são
+# "thiago" e "coordenador".
+# ---------------------------------------------------------------

@@ -1,0 +1,64 @@
+{
+  "modelos": {
+    "sface": {
+      "indexado": true,
+      "pessoas": {
+        "coordenador": {
+          "marcadas": 388,
+          "ranking_visto": 388,
+          "atualizado_em": "2026-09-24T14:37"
+        }
+      },
+      "primeiro_uso": "2026-09-24T14:37",
+      "ultimo_uso": "2026-09-24T23:57"
+    },
+    "facenet512": {
+      "indexado": true,
+      "pessoas": {
+        "coordenador": {
+          "marcadas": 380,
+          "ranking_visto": 380,
+          "atualizado_em": "2026-09-24T15:49"
+        }
+      },
+      "primeiro_uso": "2026-09-24T14:37",
+      "ultimo_uso": "2026-09-24T15:49"
+    },
+    "arcface": {
+      "indexado": true,
+      "pessoas": {
+        "coordenador": {
+          "marcadas": 380,
+          "ranking_visto": 380,
+          "atualizado_em": "2026-09-24T16:04"
+        }
+      },
+      "primeiro_uso": "2026-09-24T15:56",
+      "ultimo_uso": "2026-09-24T16:04"
+    },
+    "vggface": {
+      "indexado": true,
+      "pessoas": {
+        "coordenador": {
+          "marcadas": 380,
+          "ranking_visto": 380,
+          "atualizado_em": "2026-09-24T23:11"
+        }
+      },
+      "primeiro_uso": "2026-09-24T16:13",
+      "ultimo_uso": "2026-09-24T23:11"
+    },
+    "insightface": {
+      "indexado": true,
+      "pessoas": {
+        "coordenador": {
+          "marcadas": 388,
+          "ranking_visto": 388,
+          "atualizado_em": "2026-09-24T23:31"
+        }
+      },
+      "primeiro_uso": "2026-09-24T23:16",
+      "ultimo_uso": "2026-09-24T23:31"
+    }
+  }
+}
